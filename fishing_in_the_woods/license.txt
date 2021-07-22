@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fishing in the woods
+* source:	https://sketchfab.com/3d-models/fishing-in-the-woods-94efba50b52545cba63d8093e0ae8cb7
+* author:	srikarjois1234 (https://sketchfab.com/srikarjois1234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fishing in the woods" (https://sketchfab.com/3d-models/fishing-in-the-woods-94efba50b52545cba63d8093e0ae8cb7) by srikarjois1234 (https://sketchfab.com/srikarjois1234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
